@@ -76,7 +76,7 @@ Deze build is gemaakt uit 37 Remake tekstassets. De QA-controle op rijtelling, I
 
 ## Laatste wijziging
 
-- Glossary-termen vastgezet:
+- Glossary-termen vastgezet voor valuta, items, materia en spreuken:
   - `Gil` / `gil` naar `Euro` / `euro`
   - `Potion` naar `Energie`
   - `Hi-Potion` naar `Veel Energie`
@@ -84,6 +84,14 @@ Deze build is gemaakt uit 37 Remake tekstassets. De QA-controle op rijtelling, I
   - `Cure` naar `Helen`
   - `Cura` naar `Veel Helen`
   - `Curaga` naar `Mega Helen`
+  - `Fire` / `Fira` / `Firaga` naar `Vuur` / `Veel Vuur` / `Mega Vuur`
+  - `Blizzard` / `Blizzara` / `Blizzaga` naar `IJs` / `Veel IJs` / `Mega IJs`
+  - `Thunder` / `Thundara` / `Thundaga` naar `Bliksem` / `Veel Bliksem` / `Mega Bliksem`
+  - `Aero` / `Aerora` / `Aeroga` naar `Wind` / `Veel Wind` / `Mega Wind`
+  - `Bio` / `Biora` / `Bioga` naar `Gif` / `Veel Gif` / `Mega Gif`
+  - `Raise` / `Arise` naar `Opwekken` / `Volledig Opwekken`
+  - `Barrier` / `Manaward` / `Manawall` naar `Barrière` / `Magieschild` / `Dubbel Schild`
+  - `Haste` / `Slow` / `Stop` naar `Versnellen` / `Vertragen` / `Stoppen`
 - Typografische leestekens genormaliseerd voor betere gamefont-rendering:
   - `…` naar `...`
   - lange streepjes naar `-`
