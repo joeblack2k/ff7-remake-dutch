@@ -15,6 +15,7 @@ Deze build richt zich op de PC/Steam-versie van **FINAL FANTASY VII REMAKE INTER
 - Natuurlijk Nederlands, niet letterlijk woord-voor-woord.
 - Compacte ondertitels die leesbaar blijven tijdens gameplay.
 - Namen en kerntermen blijven herkenbaar: Cloud, Barret, Aerith, Tifa, Sephiroth, Shinra, SOLDIER, Mako, Materia, Midgar.
+- Speltermen in deze release: Gil/Euro, Potion/Energie, Hi-Potion/Veel Energie, Ether/Magie, Cure/Helen, Cura/Veel Helen, Curaga/Mega Helen.
 
 ## Bekende beperking
 

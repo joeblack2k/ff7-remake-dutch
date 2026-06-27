@@ -76,6 +76,14 @@ Deze build is gemaakt uit 37 Remake tekstassets. De QA-controle op rijtelling, I
 
 ## Laatste wijziging
 
+- Glossary-termen vastgezet:
+  - `Gil` / `gil` naar `Euro` / `euro`
+  - `Potion` naar `Energie`
+  - `Hi-Potion` naar `Veel Energie`
+  - `Ether` naar `Magie`
+  - `Cure` naar `Helen`
+  - `Cura` naar `Veel Helen`
+  - `Curaga` naar `Mega Helen`
 - Typografische leestekens genormaliseerd voor betere gamefont-rendering:
   - `…` naar `...`
   - lange streepjes naar `-`
