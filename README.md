@@ -74,6 +74,14 @@ End/Content/Paks/~mods/zzz_FF7RemakeDutchSubtitles_P.pak
 
 Deze build is gemaakt uit 37 Remake tekstassets. De QA-controle op rijtelling, IDs, actorregels en markup/placeholders was schoon.
 
+## Laatste wijziging
+
+- Typografische leestekens genormaliseerd voor betere gamefont-rendering:
+  - `…` naar `...`
+  - lange streepjes naar `-`
+  - slimme quotes naar gewone quotes
+  - non-breaking spaces naar gewone spaties
+
 ## Disclaimer
 
 Dit is een fanmod. FINAL FANTASY VII REMAKE en alle originele game-assets zijn eigendom van Square Enix. Gebruik deze mod alleen met een legale PC-installatie van de game.

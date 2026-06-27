@@ -19,3 +19,7 @@ Deze build richt zich op de PC/Steam-versie van **FINAL FANTASY VII REMAKE INTER
 ## Bekende beperking
 
 Korte uitroepen, namen, symbolen en sommige UI-termen kunnen bewust gelijk blijven aan het Engels wanneer vertalen de betekenis of herkenbaarheid zou schaden.
+
+## Render-compatibiliteit
+
+Sommige typografische Unicode-tekens renderen in de FF7 Remake fontstack niet op dezelfde baseline. Daarom gebruikt de release veilige ASCII-varianten voor ellipsen, aanhalingstekens, streepjes en spaties.
