@@ -81,9 +81,9 @@ Deze build is gemaakt uit 37 Remake tekstassets. De QA-controle op rijtelling, I
   - `Potion` naar `Energie`
   - `Hi-Potion` naar `Veel Energie`
   - `Ether` naar `Magie`
-  - `Cure` naar `Helen`
-  - `Cura` naar `Veel Helen`
-  - `Curaga` naar `Mega Helen`
+  - `Cure` naar `Genezing`
+  - `Cura` naar `Sterke Genezing`
+  - `Curaga` naar `Mega Genezing`
   - `Fire` / `Fira` / `Firaga` naar `Vuur` / `Veel Vuur` / `Mega Vuur`
   - `Blizzard` / `Blizzara` / `Blizzaga` naar `IJs` / `Veel IJs` / `Mega IJs`
   - `Thunder` / `Thundara` / `Thundaga` naar `Bliksem` / `Veel Bliksem` / `Mega Bliksem`

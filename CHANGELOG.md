@@ -2,6 +2,9 @@
 
 ## 2026-06-27
 
+- Terminologie bijgewerkt:
+  - Cure/Cura/Curaga -> Genezing/Sterke Genezing/Mega Genezing.
+  - Flower peddler/Aerith-context -> Bloemenmeisje.
 - Item-pickup grammatica gecorrigeerd:
   - Engelse objectdelen zoals `a bottle of ether` zijn vervangen door Nederlandse varianten zoals `een flesje Magie`.
   - Consumable-subvelden voor enkelvoud/meervoud/artikelen vertaald, zodat pickup-meldingen niet half Engels blijven.
@@ -23,9 +26,9 @@
   - Potion -> Energie
   - Hi-Potion -> Veel Energie
   - Ether -> Magie
-  - Cure -> Helen
-  - Cura -> Veel Helen
-  - Curaga -> Mega Helen
+  - Cure -> Genezing
+  - Cura -> Sterke Genezing
+  - Curaga -> Mega Genezing
 - Vervangen van typografische ellipsis `…` door `...` om hoog renderende puntjes in-game te voorkomen.
 - Vervangen van lange/Unicode-streepjes door `-`.
 - Vervangen van slimme quotes door gewone quotes.
