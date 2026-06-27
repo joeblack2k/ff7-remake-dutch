@@ -23,6 +23,7 @@ Deze build richt zich op de PC/Steam-versie van **FINAL FANTASY VII REMAKE INTER
   - Status/support: Sleep/Slaap, Silence/Stilte, Berserk/Razernij, Haste/Versnellen, Slow/Vertragen, Stop/Stoppen, Esuna/Zuiveren, Poisona/Ontgiften, Resist/Weerstaan.
   - Revival/barrier/subversion: Raise/Opwekken, Arise/Volledig Opwekken, Barrier/Barrière, Manaward/Magieschild, Manawall/Dubbel Schild, Breach/Breken, Dispel/Verdrijven, Death/Dood.
 - Itemmeldingen gebruiken Nederlandse objectdelen. Voorbeeld: `a bottle of ether` wordt `een flesje Magie`, zodat meldingen zoals `Je hebt ... verkregen` niet half Engels zijn.
+- Object-subvelden worden extra gecontroleerd, zodat key-items zoals `Yellow Flower` ook in pickupmeldingen als `gele bloem` verschijnen.
 - Aeriths `Flower peddler`-context wordt vertaald als `Bloemenmeisje`.
 
 ## Bekende beperking
