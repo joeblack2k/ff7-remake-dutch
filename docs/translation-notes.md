@@ -22,6 +22,7 @@ Deze build richt zich op de PC/Steam-versie van **FINAL FANTASY VII REMAKE INTER
   - Hogere tiers: Fira/Veel Vuur, Firaga/Mega Vuur, Blizzara/Veel IJs, Blizzaga/Mega IJs, Thundara/Veel Bliksem, Thundaga/Mega Bliksem, Aerora/Veel Wind, Aeroga/Mega Wind, Biora/Veel Gif, Bioga/Mega Gif.
   - Status/support: Sleep/Slaap, Silence/Stilte, Berserk/Razernij, Haste/Versnellen, Slow/Vertragen, Stop/Stoppen, Esuna/Zuiveren, Poisona/Ontgiften, Resist/Weerstaan.
   - Revival/barrier/subversion: Raise/Opwekken, Arise/Volledig Opwekken, Barrier/Barrière, Manaward/Magieschild, Manawall/Dubbel Schild, Breach/Breken, Dispel/Verdrijven, Death/Dood.
+- Itemmeldingen gebruiken Nederlandse objectdelen. Voorbeeld: `a bottle of ether` wordt `een flesje Magie`, zodat meldingen zoals `Je hebt ... verkregen` niet half Engels zijn.
 
 ## Bekende beperking
 

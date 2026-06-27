@@ -2,6 +2,10 @@
 
 ## 2026-06-27
 
+- Item-pickup grammatica gecorrigeerd:
+  - Engelse objectdelen zoals `a bottle of ether` zijn vervangen door Nederlandse varianten zoals `een flesje Magie`.
+  - Consumable-subvelden voor enkelvoud/meervoud/artikelen vertaald, zodat pickup-meldingen niet half Engels blijven.
+  - Helpteksten met `potions`, `ethers`, `hi-potions` en vergelijkbare itemmeervouden opgeschoond.
 - UI-, materia- en spellnamen verder geharmoniseerd:
   - Fire/Fira/Firaga -> Vuur/Veel Vuur/Mega Vuur
   - Blizzard/Blizzara/Blizzaga -> IJs/Veel IJs/Mega IJs
