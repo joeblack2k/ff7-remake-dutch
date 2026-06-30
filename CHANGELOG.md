@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-06-30
+
+- Chapter 8 opnieuw gepolijst met Gemini-review:
+  - 1168 dialoogregels toegepast na filter op tags, placeholders, lore-termen en game-veilige ASCII-typografie.
+  - Letterlijke Chapter 8-zinnen handmatig opgeschoond, zoals topsider/flirt-context, `black rags`, `way too much` en stroeve Sector 5-omgevingsdialogen.
+  - Teruggevallen `gil`-regels in Wall Market/Chapter 8 opnieuw naar `euro` gezet.
+  - BOM uit `080-SLU5B_TxtRes_nl.csv` verwijderd zodat de packer de Chapter 8 CSV correct importeert.
+- Nieuwe `.pak` gebouwd, op SteamOS geïnstalleerd en checksum bijgewerkt.
+
 ## 2026-06-27
 
 - Chapter 8/Wall Market polish pass met Antigravity-second-pass:
