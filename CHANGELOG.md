@@ -2,6 +2,9 @@
 
 ## 2026-06-27
 
+- Chapter 8/Wall Market polish pass met Antigravity-second-pass:
+  - Kapotte OCR/model-output zoals `Oecause`, `Jamper`, `dauw-maaltijd` en stroeve streepjes gecorrigeerd.
+  - Wall Market/Honeygirl-context natuurlijker gemaakt zonder technische placeholders te wijzigen.
 - Pickup/object-subvelden verder opgeschoond na Antigravity-second-pass:
   - `yellow flower` -> `gele bloem` voor pickup-meldingen.
   - Extra artikel-/aantalvelden vertaald, zoals `a copy of`, `a bundle of`, `a bunch of`, `a bag of`.
